@@ -1,4 +1,4 @@
-# Game-Theoretic Regularization for Balanced Multimodal Multiple-Instance Learning for Histopathology Classification
+# Coupled Histology and Morphometric Representations Improve Multiple Instance Learning for Tumor Classification
 
 
 
